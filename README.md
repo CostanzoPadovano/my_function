@@ -65,5 +65,4 @@ chmod +x MyAnalysisProject_script.sh
 ## License
 
 This project is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). This means you can use, modify, and share this project, even for commercial purposes, as long as proper attribution is given to the original author.
-```
 
