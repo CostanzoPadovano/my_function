@@ -3,12 +3,12 @@
 
 # Analysis Project Folder Structure
 
-This repository provides a Bash script (`Create_base_analysis_folders.sh`) to set up a standardized folder structure for organizing analysis projects. The script creates directories for data, notebooks, scripts, reports, and results, along with essential files like `environment.yml` and `README.md`.
+This repository provides a Bash script (`MyAnalysisProject_script.sh`) to set up a standardized folder structure for organizing analysis projects. The script creates directories for data, notebooks, scripts, reports, and results, along with essential files like `environment.yml` and `README.md`.
 
 ## How to Use
 
 1. **Download the Script:**
-   - Download the `Create_base_analysis_folders.sh` script to your computer.
+   - Download the `MyAnalysisProject_script.sh` script to your computer.
    - Save the script in a directory where you want to create a new analysis project folder.
 
 2. **Give Execute Permission:**
