@@ -1,6 +1,6 @@
 # my_function
 
-```
+```markdown
 # Analysis Project Folder Structure
 
 This repository provides a Bash script (`Create_base_analysis_folders.sh`) to set up a standardized folder structure for organizing analysis projects. The script creates directories for data, notebooks, scripts, reports, and results, along with essential files like `environment.yml` and `README.md`.
