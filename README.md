@@ -64,7 +64,6 @@ chmod +x MyAnalysisProject_script.sh
 
 ## License
 
-[![License: Creative Commons License](https://img.shields.io/badge/License-LICENSE_CODE-blue.svg)](https://creativecommons.org/licenses/LICENSE_CODE/)
+This project is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). This means you can use, modify, and share this project, even for commercial purposes, as long as proper attribution is given to the original author.
 ```
 
-Replace `LICENSE.md` with the name of the actual license file if you have one. This README provides clear instructions on how to use the script, explains the folder structure, and even includes an example of how to run the script to create a new analysis project. It also includes a section for licensing information if you want to specify the license for your script.
