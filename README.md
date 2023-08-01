@@ -16,20 +16,20 @@ This repository provides a Bash script (`Create_base_analysis_folders.sh`) to se
    - Run the following command to give execute permission to the script:
 
 ```bash
-chmod +x Create_base_analysis_folders.sh
+chmod +x MyAnalysisProject_script.sh
 ```
 
 3. **Run the Script:**
    - In the terminal, execute the script by providing a project name as an argument:
 
 ```bash
-./Create_base_analysis_folders.sh <project_name>
+./MyAnalysisProject_script.sh <project_name>
 ```
 
 Replace `<project_name>` with the desired name of your analysis project. For example:
 
 ```bash
-./Create_base_analysis_folders.sh MyAnalysisProject
+./MyAnalysisProject_script.sh MyAnalysisProject
 ```
 
 4. **Folder Structure:**
@@ -51,13 +51,13 @@ Suppose you want to create a new analysis project named "MyAnalysisProject." Fol
 3. Give execute permission to the script:
 
 ```bash
-chmod +x Create_base_analysis_folders.sh
+chmod +x MyAnalysisProject_script.sh
 ```
 
 4. Run the script with the project name:
 
 ```bash
-./Create_base_analysis_folders.sh MyAnalysisProject
+./MyAnalysisProject_script.sh MyAnalysisProject
 ```
 
 5. You'll find a new folder named `MyAnalysisProject` with the analysis project structure inside.
