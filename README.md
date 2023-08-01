@@ -64,7 +64,7 @@ chmod +x MyAnalysisProject_script.sh
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+[![License: Creative Commons License](https://img.shields.io/badge/License-LICENSE_CODE-blue.svg)](https://creativecommons.org/licenses/LICENSE_CODE/)
 ```
 
 Replace `LICENSE.md` with the name of the actual license file if you have one. This README provides clear instructions on how to use the script, explains the folder structure, and even includes an example of how to run the script to create a new analysis project. It also includes a section for licensing information if you want to specify the license for your script.
