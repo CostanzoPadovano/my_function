@@ -30,3 +30,19 @@ def run_gsva_and_update_adata(adata, gene_sets, min_size=1, max_size=500, outdir
     adata.obs = pd.concat([adata.obs, gsva_score], join="inner", axis=1)
 
     return adata
+
+"""
+How to use, example:
+
+gene_sets = {
+    "Set1": ['HES4', 'TNFRSF4', 'SSU72', 'PARK7'] #insert interested genes
+    # ... you can add more sets here
+}
+
+Call the function
+adata_updated = run_gsva_and_update_adata(adata, gene_sets)
+
+Now adata_updated contains the GSVA scores in its .obs attribute
+"""
+
+
